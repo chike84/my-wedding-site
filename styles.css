@@ -1,0 +1,58 @@
+/* Reset or basic styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body and Fonts */
+  body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Header and Nav */
+  header {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  header h1 {
+    margin-bottom: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+    margin-left: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Sections */
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+  }
+  
+  section h2 {
+    margin-bottom: 10px;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 20px;
+  }
+  
